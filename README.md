@@ -1,2 +1,2 @@
 # DefeatTBUganda
-Web applications that picks geneXpert Data displays the results to the Management. 
+Web application that picks geneXpert Data and displays the results to the Management. 
