@@ -463,7 +463,6 @@ plt.ylim((0.0, 1.0))
 # 
 # If you are new to Matplotlib and would like to learn more about it, you will find an excellent tutorial at https://www.labri.fr/perso/nrougier/teaching/matplotlib/. There is much more to Matplotlib than what was shown here, which is one reason why it is so popular in the Python community.
 
-# In[ ]:
 
 
 
